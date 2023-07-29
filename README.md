@@ -11,5 +11,6 @@ Heyya there!
   <li>Entity Framework/Core</li>
   <li>MSSQL Server</li>
   <li>Javascript/Typescript</li>
+  <li>HTML-CSS</li>
 </div>
 </div>
