@@ -1,5 +1,5 @@
 
-# I'm Ali, I really like Backend and Web API development with having almost close to 6 years of learning experience. With C#, I believe Full Stack .NET is the way for me! 
+# Hey, I'm Ali! My passion is developing Web APIs and back-end. 
  
   
 
