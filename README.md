@@ -1,16 +1,18 @@
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=exuviaesubarashii&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=exuviaesubarashii&exclude_repo=github-readme-stats,exuviaesubarashii.github.io)
-
+# I'm Ali, I really like Backend and Web API development with having almost close to 6 years of learning experience. With C#, I believe Full Stack .NET is the way for me! 
+ 
+  
+<img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="left"  src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img align="left" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <div align="center">
-  Heyya there!
-  I'm Ali, I really like Backend and Web API development with having almost close to 6 years of learning experience. With C#, I believe Full Stack .NET is the way for me!
+  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=exuviaesubarashii&show_icons=true&theme=radical"/>
+<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exuviaesubarashii&exclude_repo=github-readme-stats,exuviaesubarashii.github.io"/>
+
 </div>
-<div>
-  <p>If I could list my knowledge I'd list:</p>
-  <li>C#</li>
-  <li>.NET</li>
-  <li>Entity Framework/Core</li>
-  <li>MSSQL Server</li>
-  <li>Javascript/Typescript</li>
-  <li>HTML-CSS</li>
+
