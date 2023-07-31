@@ -4,7 +4,7 @@
   
 
 <div align="center">
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api?username=exuviaesubarashii&show_icons=true&theme=radical"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=exuviaesubarashii&show_icons=true&theme=radical"/>
 <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exuviaesubarashii&exclude_repo=github-readme-stats,exuviaesubarashii.github.io"/>
 </div>
 
