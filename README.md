@@ -1,12 +1,5 @@
 
 # Hey, I'm Ali! My passion is developing Web APIs and back-end. 
- 
-  
-
-<div align="center">
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=exuviaesubarashii&show_icons=true&theme=radical"/>
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exuviaesubarashii&exclude_repo=github-readme-stats,exuviaesubarashii.github.io"/>
-</div>
 
 <img align="left" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
