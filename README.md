@@ -1,4 +1,1 @@
-
-Hey, I'm Ali! My passion is developing Web APIs and back-end. 
-
-I tend to use .Net, SvelteKit, MSSQL, TypeScript and EntityFramework Core
+Usually Backending with .NET though if you are lucky you might see me Frontending however I wish I didn't 😭🙏
